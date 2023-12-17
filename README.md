@@ -24,7 +24,7 @@ Rare
 
 ![1702832352551](image/README/1702832352551.png)
 
-##### Лабораторная работа №7
+##### Лабораторная работа №7 function
 
 ```python
  def calculate_xi(n):
@@ -35,7 +35,7 @@ Rare
     return ((n - 1) * calculate_xi(n - 1)) / 3 + ((n - 2) * calculate_xi(n - 2)) / 4
 ```
 
-##### Лабораторная работа №8
+##### Лабораторная работа №8 calculator
 
 ```python
  def make_calc(operator, initial=0):
@@ -69,7 +69,7 @@ Rare
     return calc
 ```
 
-##### Лабораторная работа №9
+##### Лабораторная работа №9 random_num_gen
 
 ```python
  import time
@@ -122,8 +122,6 @@ if __name__ == "__main__":
 ![1702832380201](image/README/1702832380201.png)
 
 ![1702832388397](image/README/1702832388397.png)
-
-
 
 ### Список использованных источников
 

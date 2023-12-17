@@ -90,9 +90,7 @@ def generate_random_number(min_val, max_val):
 ```python
 import typer
 
-import random_num_gen
-import function
-import calculator
+from moduls import calculator, function, random_num_gen
 
 app = typer.Typer()
 
